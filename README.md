@@ -19,7 +19,7 @@ This is a simple and impactful machine learning web app that predicts the risk o
 
 <img src="screenshots/output2.png" width="600" alt="Prediction Result-2 Screenshot" />
 
-> ✨ You can add screenshots by uploading them in a `screenshots/` folder and referencing them above.
+
 
 ---
 
